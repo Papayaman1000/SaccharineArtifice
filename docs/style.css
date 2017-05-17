@@ -1,0 +1,49 @@
+html, body {
+  background-color: #ddaadd;
+}
+
+h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 32px;
+  color: #110011;
+  text-align: center;
+  margin: 15vh;
+}
+
+p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+  color: #8800ff;
+  text-align: center;
+  margin: 30vh;
+}
+
+a {
+  display: block;
+  background-color: #22aa22;
+  color: #ddffdd;
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  padding: 20px;
+  font-weight: 700;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+}
+
+a:hover {
+  background-color: #44dd44;
+  color: #FFFFFF;
+}
+
+#startButton {
+  margin: 20vh 20vw;
+}
+
+table {
+  border-spacing: 20px;
+}
+
+td {
+  background-color: #ddaadd;
+}
