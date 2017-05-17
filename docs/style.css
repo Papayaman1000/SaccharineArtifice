@@ -12,7 +12,8 @@ h1 {
 
 p {
   font-family: 'Quicksand', sans-serif;
-  font-size: 18px;
+  font-size: 24px;
+  font-weight: 600;
   color: #8800ff;
   text-align: center;
   margin: 30vh;
