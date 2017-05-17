@@ -43,6 +43,7 @@ a:hover {
 table {
   border-spacing: 20px;
   text-align: center;
+  margin: auto;
 }
 
 td {
