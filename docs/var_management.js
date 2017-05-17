@@ -1,6 +1,8 @@
 var correct = sessionStorage.getItem('correct');
 
-if (correct === undefined) {
-  correct = 0;
-  sessionStorage.setItem('correct', 0);
+while (true) {
+  if (correct === undefined) {
+    correct = 0;
+    sessionStorage.setItem('correct', 0);
+  }
 }
