@@ -56,7 +56,7 @@ td {
 }
 
 .question-ribbon {
-  animation: fadein 0.65s
+  animation: fadein 0.65s;
   background: linear-gradient(to bottom, rgba(255,255,255,.70) 0%, rgba(255,255,255,0.60) 100%);
   padding: 20px;
   margin: 20vh 0;
