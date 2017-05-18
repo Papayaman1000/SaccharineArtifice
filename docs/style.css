@@ -52,6 +52,7 @@ table {
 }
 
 td {
+  animation: fadein 0.65s;
   background-color: #ddaadd;
 }
 
