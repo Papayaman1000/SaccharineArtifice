@@ -24,6 +24,7 @@ p {
 }
 
 a {
+  animation: fadein 0.65s;
   display: block;
   background-color: #22aa22;
   color: #ddffdd;
@@ -52,7 +53,6 @@ table {
 }
 
 td {
-  animation: fadein 0.65s;
   background-color: #ddaadd;
 }
 
